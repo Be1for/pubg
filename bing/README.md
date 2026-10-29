@@ -36,8 +36,6 @@ Before getting started, make sure you have the following files and tools.
 | **MT Manager** | File manager for working with `.sh` files |
 | **Root access** | Superuser permissions required by the tool |
 
-> [!IMPORTANT]
-> Root access is required. Configure root-hiding features only if permitted by your device's security configuration and the game's rules.
 
 ---
 
