@@ -154,7 +154,7 @@
 
 <p align="center">
   <a href="https://t.me/k32_leak">
-    <img src="https://img.shields.io/badge/Telegram-@k32__leaks-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="k32_leaks">
+    <img src="https://img.shields.io/badge/Telegram-@k32__leak-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="k32_leak">
   </a>
   <a href="https://t.me/nullnb6">
     <img src="https://img.shields.io/badge/Telegram-@nullnb6-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="nullnb6">
