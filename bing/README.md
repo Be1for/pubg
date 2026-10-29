@@ -51,7 +51,7 @@ Before getting started, make sure you have the following files and tools.
    /data/local/tmp/
    ```
 
-4. Set the file permissions to `777`, if required by the tool.
+4. Set the file permissions to `777`.
 
 ### 02 — Install the Correct Driver
 
