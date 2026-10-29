@@ -86,7 +86,7 @@ For example:
 
 The version begins with `6.6`, so the corresponding driver family would be **6.6**, provided the driver package supports that kernel.
 
-| Kernel version example | Driver family |
+| Kernel version example | Driver |
 |:---|:---|
 | `5.10.xxx` | `5.10` |
 | `5.15.xxx` | `5.15` |
